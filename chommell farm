@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chommell farm kendaldoyong</title>
+</head>
+<body>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 100%;
+            max-width: 600px;
+            .container1{
+                display: flex;
+                justify-content: margin;
+                align-items: margin;
+                height: 100vh;
+                width: 100%;
+                max-width: 600px;
+            }
+        }
+        .wadah-tombol {
+            display: flex;
+            justify-content: center;
+        }
+        .tombol {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        .tombol:hover {
+            background-color: #45a049;
+        }
+        body {
+            background-image: url(FB_IMG_15838056636304867-1.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+<head>
+    <body>
+        <p style="text-align: center;"><u style="color: white; font-size: 18px;">Welcome to Chommell Farm Kendaldoyong</u></p>
+        <p style="text-align: center; color: white; font-size: 16px;">jangan lupa follow ya guis</p>
+        <div class="wadah-tombol">
+            <a href="https://www.instagram.com/kang_slamet22/" class="tombol">Instagram</a>
+            <a href="https://wa.me/6287727114562" class="tombol">WhatsApp</a>
+            <a href="https://www.youtube.com/@slametfauzi45221" class="tombol">Youtube</a>
+            <a href="https://link.dana.id/minta?full_url=https:qr.dana.id/v1/281012012022032151594135" class="tombol">pembayaran dana</a>
+        </div>
+    </body>
+    <body>
+        <p style="text-align: center;"><b style="color: white; font-family: 'Times New Roman', Times, serif; font-size: 15px;">ikuti halaman kami agar dapat info menarik lainnya.</b></p>
+        <p style="text-align: center;"><b style="color: white; font-family: 'Times New Roman', Times, serif; font-size: 15px;">chommell farm, solusi tepat untuk kebutuhan anda.</b></p>
+        <div class="wadah-tombol">
+            <a href="https://www.facebook.com/muhammad.syarifudin.90226" class="tombol">Facebook</a>
+            <a href="https://t.me/fauzislm" class="tombol">Telegram</a>
+            <a href="https://vt.tiktok.com/ZSCGfybv2/" class="tombol">Tok tok</a>
+            <a href="https://olshopin.com/t/2648017" class="tombol">produk yang tersedia</a>
+        </div>
+        <img src="qris dana bisnis.jpg" alt="QRIS Dana Bisnis" style="display: block; margin: 20px auto; max-width: 20%; height: auto;">
+        <p style="text-align: center;"><b style="color: white; font-family: 'Times New Roman', Times, serif; font-size: 15px;">(scan barcode diatas jika ingin menggunakan metode qris)</b></p>
+        <p style="text-align: center; color: #45a049;">berikut adalah pengenalan singkat tentang Chommell farm kendaldoyong:</p>
+        <h1 style="text-align: center; color: white; font-family: 'Times New Roman', Times, serif; font-size: 24px;"><u>Chommell farm kendaldoyong</u></h1>
+        <p style="color: #4CAF50;">Chommell farm adalah usaha penjualan barang dan jasa milik perorangan dengan selalu mengutamakan mutu dan kualitas semua produknya.</p>
+        <p style="color: #4CAF50;">berdiri sejak tahun 2018 dan terus bersinergi untuk mengembangkan mutu kami, agar dapat mempertahankan kualitas yang sudah lama dibangun</p>
+        <p style="color: #4CAF50;">Kami berkomitmen untuk memberikan layanan terbaik dan produk berkualitas tinggi kepada pelanggan kami.</p>
+        <p style="color: #4CAF50;">Kami percaya bahwa kepuasan pelanggan adalah prioritas utama kami, dan kami selalu berusaha untuk memenuhi kebutuhan dan harapan mereka.</p>
+        <p style="color: #4CAF50;">Kami juga berkomitmen untuk menjaga hubungan jangka panjang dengan pelanggan kami, dan kami selalu terbuka untuk masukan dan saran dari mereka.</p>
+        <p style="color: #4CAF50;">Kami percaya bahwa dengan memberikan layanan terbaik dan produk berkualitas tinggi, kami dapat membangun kepercayaan dan loyalitas pelanggan kami.</p>
+
+        <br>
+        <p style="position: fixed; bottom: 0; width: 100%; text-align: center; color: #45a049;">&copy; 2018 Chommell Farm Kendaldoyong. All rights reserved.</p>
+    </body>
+</head>
+</body>
+</html>
